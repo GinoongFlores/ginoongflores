@@ -30,7 +30,7 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ginoongflores&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ginoongflores&theme=black-ice"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ginoongflores&theme=black-ice"/>
 
 ## 🚀 Languages and Tools:
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank">
