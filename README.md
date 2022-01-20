@@ -25,12 +25,24 @@
 <br/>
 
 ## 📊 My Github Stats
+<table align="center" width="100%"> 
+  <tr> 
+    <td align="center"> 
+      <img src="https://github-readme-stats.vercel.app/api?username=ginoongflores&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117">
+    </td> 
+    <td align="center"> 
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ginoongflores&theme=black-ice"/>
+    </td> 
+   </tr> 
+  
+  <tr> 
+    <td align="center"> 
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ginoongflores&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/>
+    </td> 
+  </tr> 
+  
+  </table>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=ginoongflores&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117">
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ginoongflores&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/>
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ginoongflores&theme=black-ice"/>
 
 ## 🚀 Languages and Tools:
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank">
