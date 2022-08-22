@@ -4,7 +4,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🕴️ Google Developer Student Clubs Lead at [GDSC STI College CDO](https://dscsticdo.github.io)
+- 🕴️ Former Google Developer Student Clubs Lead at [GDSC STI College CDO](https://dscsticdo.github.io)
 
 - 💻 I'm currently working on **College and Side Projects**
 
