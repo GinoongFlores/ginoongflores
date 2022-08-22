@@ -8,7 +8,7 @@
 
 - 💻 I'm currently working on **College and Side Projects**
 
-- 🌱 I’m currently learning **Web development, Mobile Applications and Desktop Application**
+- 🌱 I’m currently learning **Web development and Mobile Applications**
   
 - 👯 I’m looking to collaborate on **Open Source**
 
