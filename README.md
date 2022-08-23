@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px">, I'm Christian, A.K.A Tian, Chan, & Paul.</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px">, I'm Christian Paul! </h1>
 <h3 align="center">Aspiring web developer from the Philippines</h3>
 <br/>
 
