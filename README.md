@@ -6,9 +6,9 @@
 
 - 🕴️ Former Google Developer Student Clubs Lead at [GDSC STI College CDO](https://dscsticdo.github.io)
 
-- 💻 I'm currently working on **Side Projects**
+- 💻 I'm currently working on **Course and Side Projects**
 
-- 🌱 I’m currently learning **Web Development (HTML, CSS, Javascript)**
+- 🌱 I’m currently learning **Web Development (HTML, CSS, Javascript, Bootstrap, WordPress)**
   
 - 👯 I’m looking to collaborate on **Open Source**
 
