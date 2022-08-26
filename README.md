@@ -6,13 +6,13 @@
 
 - 🕴️ Former Google Developer Student Clubs Lead at [GDSC STI College CDO](https://dscsticdo.github.io)
 
-- 💻 I'm currently working on **College and Side Projects**
+- 💻 I'm currently working on **Side Projects**
 
-- 🌱 I’m currently learning **Web development and Mobile Applications**
+- 🌱 I’m currently learning **Web Development (HTML, CSS, Javascript)**
   
 - 👯 I’m looking to collaborate on **Open Source**
 
-- 🤝 I’m looking for help with **Java, Android & Flutter**
+<!-- - 🤝 I’m looking for help with **Java, Android & Flutter** -->
 
 - 👨‍💻 All of my projects are available at my [Github Repos](https://github.com/GinoongFlores?tab=repositories)
 
