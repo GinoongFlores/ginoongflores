@@ -6,7 +6,7 @@
 
 - 🕴️ Former Google Developer Student Clubs Lead at [GDSC STI College CDO](https://dscsticdo.github.io)
 
-- 💻 I'm currently working on **Course and Side Projects**
+- 💻 I'm currently working on **College Course and Side Projects**
 
 - 🌱 I’m currently learning **Web Development (HTML, CSS, Javascript, Bootstrap, WordPress)**
   
@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at my [Github Repos](https://github.com/GinoongFlores?tab=repositories)
 
-- 💬 Ask me about **HTML, CSS, Bootstrap, Java & Android**
+<!-- - 💬 Ask me about **HTML, CSS, Bootstrap, Java & Android** -->
 
 - 📫 How to reach me **florespaul161@gmail.com**
   
