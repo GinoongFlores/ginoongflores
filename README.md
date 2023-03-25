@@ -10,7 +10,7 @@
 
 - 💻 I'm currently working on **College Course and Side Projects**
 
-- 🌱 I’m currently learning **Web Development (HTML, CSS, Javascript, Bootstrap, WordPress)**
+- 🌱 I’m currently learning **Web Development (HTML, CSS, Javascript, Bootstrap, WordPress, React JS)**
   
 - 👯 I’m looking to collaborate on **Open Source**
 
