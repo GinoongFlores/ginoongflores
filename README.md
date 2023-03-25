@@ -4,6 +4,8 @@
 
 ## 🙋‍♂️ About Me
 
+- 🚩 Currently a GitHub Campus Expert 
+
 - 🕴️ Former Google Developer Student Clubs Lead at [GDSC STI College CDO](https://dscsticdo.github.io)
 
 - 💻 I'm currently working on **College Course and Side Projects**
