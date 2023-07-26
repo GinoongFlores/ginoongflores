@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **florespaul161@gmail.com**
   
-- 👨‍🎓 I'm a **BSIT Student** at **STI College Cagayan de Oro**
+- 👨‍🎓 I'm on my final year as a **BSIT Student** at **STI College Cagayan de Oro**
 
 - ⚡ Fun fact **I have a sense of Humor, Friendly, and Loves to play Guitar**
 
