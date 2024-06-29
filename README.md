@@ -22,8 +22,6 @@
 
 - 📫 How to reach me **florespaul161@gmail.com**
   
-- 👨‍🎓 I'm on my final year as a **IT Student** at **STI College Cagayan de Oro**
-
 - ⚡ Fun fact **I have a sense of Humor, Friendly, and Loves to play Guitar**
 
 <br/>
