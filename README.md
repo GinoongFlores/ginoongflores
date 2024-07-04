@@ -20,7 +20,7 @@
 
 <!-- - 💬 Ask me about **HTML, CSS, Bootstrap, Java & Android** -->
 
-- 📫 How to reach me **florespaul161@gmail.com**
+- 📫 How to reach me **florespaul161@gmail.com** || **ginoongflores@gmail.com**
   
 - ⚡ Fun fact **I have a sense of Humor, Friendly, and Loves to play Guitar**
 
@@ -46,6 +46,7 @@
   </table>
 
 
+<!--
 ## 🚀 Languages and Tools:
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank">
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -64,12 +65,11 @@
 </a>
 <!-- <a href="">
 <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
-</a> -->
+</a> 
 <a href="https://dotnet.microsoft.com/apps/xamarin">
 <img src="https://img.shields.io/badge/Xamarin-3199DC?style=for-the-badge&logo=xamarin&logoColor=white"/>
 </a>
 
-\
 <a href="https://git-scm.com/">
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
 </a>
@@ -91,7 +91,7 @@
 <a href="https://developer.android.com/studio">
 <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white"/>
 </a>
-
+-->
 
 ## 🤝 Connect with me
 
