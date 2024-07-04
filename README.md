@@ -11,7 +11,7 @@
 
 <!-- - 💻 I'm currently working on **College Course and Side Projects** -->
 
-- 🌱 I’m currently learning **Project/Product Management skills**
+- 🌱 I’m currently into **Project/Product Management skills**
 
 - 👯 I’m looking to collaborate on **Open Source**
 
