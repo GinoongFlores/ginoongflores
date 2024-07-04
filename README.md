@@ -3,6 +3,7 @@
 <br/>
 
 ## 🙋‍♂️ About Me
+- ⏮️ Previously a Full Stack Developer Intern at [Fligno Software, Philippines](https://fligno.com/)
 
 - 🚩 Currently a GitHub Campus Expert 
 
