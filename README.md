@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px">, I'm Christian Paul! </h1>
-<h3 align="center">Aspiring web developer from the Philippines</h3>
+<h3 align="center">Campus Expert at GitHub | Former GDSC Lead | Aspiring Product Manager from the Philippines</h3>
 <br/>
 
 ## 🙋‍♂️ About Me
@@ -10,8 +10,8 @@
 
 <!-- - 💻 I'm currently working on **College Course and Side Projects** -->
 
-- 🌱 I’m currently learning **Project/Product Management skills** 
-  
+- 🌱 I’m currently learning **Project/Product Management skills**
+
 - 👯 I’m looking to collaborate on **Open Source**
 
 <!-- - 🤝 I’m looking for help with **Java, Android & Flutter** -->
