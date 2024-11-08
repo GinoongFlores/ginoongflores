@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px">, I'm Christian Paul! </h1>
-<h3 align="center">Campus Expert at GitHub | Former GDSC Lead | Aspiring Product Manager from the Philippines</h3>
+<h3 align="center">Campus Expert at GitHub | Former GDSC Lead</h3>
 <br/>
 
 ## 🙋‍♂️ About Me
@@ -11,7 +11,7 @@
 
 <!-- - 💻 I'm currently working on **College Course and Side Projects** -->
 
-- 🌱 I’m currently into **Web Development & Project/Product Management skills**
+- 🌱 I’m currently into **Web Development, Project/Product Management, AI prompt engineering skills**
 
 - 👯 I’m looking to collaborate on **Open Source**
 
