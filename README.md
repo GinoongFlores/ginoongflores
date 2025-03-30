@@ -21,7 +21,7 @@
 
 <!-- - 💬 Ask me about **HTML, CSS, Bootstrap, Java & Android** -->
 
-- 📫 How to reach me **florespaul161@gmail.com** || **ginoongflores@gmail.com**
+- 📫 How to reach me **ginoongflores@gmail.com**
   
 - ⚡ Fun fact **I have a sense of Humor, Friendly, and Loves to play Guitar**
 
